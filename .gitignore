@@ -17,6 +17,9 @@
 .env.development.local
 .env.test.local
 .env.production.local
+.eslintrc
+.vscode
+blog-list-modern-react.code-workspace
 
 npm-debug.log*
 yarn-debug.log*
